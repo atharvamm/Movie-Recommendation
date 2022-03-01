@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment1.params=filename
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment2.params=
+comment2.target=void\ testLoadMovies()
+comment3.params=filename
+comment3.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment3.text=\r\n\ The\ load\ Raters\ function\ when\ hashmap\ is\ used.This\ function\ with\ Hashmap\ is\ quicker.The\ previous\ function\ takes\ about\ 7000\ ms\ whereas\ this\ one\ takes\ 25\ ms.\r\n
+comment4.params=
+comment4.target=void\ testLoadRaters()
+numComments=5
